@@ -1,6 +1,3 @@
-
-
-
 const Film = ({className,original_title,title,director,description,src,alt}) => {
   return (
     <div className="flex justify-center gap-6 items-start mb-8">
